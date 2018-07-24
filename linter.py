@@ -2,7 +2,7 @@
 # linter.py
 # Linter for SublimeLinter3, a code checking framework for Sublime Text 3
 #
-# By Carlos Asmat. Derived from Luc Bettaieb's work
+# Authors: Luc Bettaieb, Carlos Asmat.
 #
 # License: MIT
 #
